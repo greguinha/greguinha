@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @greguinha
-- 👀 I’m interested in paquerar
-- 🌱 I’m currently learning com Hittler
-- - 📫 How to reach me, venha até minha casa!
+#sobre mim
+- 👋 meu nome é @greguinha
+- 👀 estou interresada em paquerar
+- 🌱 ando aprendendo muias coisas com Hittler*_*
+ - 📫 Quer vim me ver? é simples,venha até minha casa!
 
 <!---
 greguinha/greguinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
